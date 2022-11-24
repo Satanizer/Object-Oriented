@@ -1,0 +1,5 @@
+IbnuHajarAl-Asqalani_1500_1,1500,Ibnu Hajar Al-Asqalani,beragam,بُلُوغُ اَلْمَرَامِ مِنْ أَدِلَّةِ اَلْأَحْكَامِ
+IbnuHajarAl-Asqalani_1449_1,1449,Ibnu Hajar Al-Asqalani,beragam,فتح الباري
+ImamAl-Ghazali_1100_1,1100,Imam Al-Ghazali,beragam,احياء علوم الدين
+AdolfHitler_1925_1,1925,Adolf Hitler,franz eher,Mein Kampf
+AbdulGhaniAl-Maqdisi_1200_1,1200,Abdul Ghani Al-Maqdisi,beragam,Umdatul Ahkam
